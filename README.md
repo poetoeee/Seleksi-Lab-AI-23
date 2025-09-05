@@ -20,8 +20,8 @@
 <ul>
     <li>✅ KNN (K-Nearest-Neighbors)</li>
     <li>✅ Logistic Regression</li>
-    <li>❌ Gaussian Naive Bayes</li>
-    <li>❌ CART (Classification and Regression Tree)</li>
+    <li>✅ Gaussian Naive Bayes</li>
+    <li>✅ CART (Classification and Regression Tree)</li>
     <li>❌ SVM (Support Vector Machine)</li>
     <li>❌ ANN (Artificial Neural Network)</li>
 </ul>
@@ -34,3 +34,22 @@
     <li>❌ PCA (Principal Component Analysis)</li>
 </ul>
 <p><b>Bonus yang diimplementasikan:</b> Tidak ada</p>
+
+
+<div align="center" id="contributor">
+   <strong>
+     <h3> Author </h3>
+     <table align="center">
+       <tr align="center">
+         <td>NIM</td>
+         <td>Name</td>
+         <td>GitHub</td>
+       </tr>
+       <tr align="center">
+         <td>13523096</td>
+         <td>Muhammad Edo Raduputu Aprima</td>
+         <td><a href="https://github.com/Nayekah">@poetoeee</a></td>
+       </tr>
+     </table>
+   </strong>
+ </div>
